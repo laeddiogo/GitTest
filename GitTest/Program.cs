@@ -11,7 +11,8 @@ namespace GitTest
         static void Main(string[] args)
         {
             int a = 0;
-            int b = 8;        
+            int b = 8;    
+                
         }
     }
 }
